@@ -1,0 +1,3 @@
+SOURCE PROJECT CREATED. APK NOT COMPILED.
+This environment has no Android SDK, Gradle installation, ADB, or APK signing tools.
+Open this project in Android Studio and follow README_HI_EN.md to build the APK.
